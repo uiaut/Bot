@@ -4,7 +4,7 @@
   "description": "Bot Minecraft tự động",
   "main": "bot.js",
   "scripts": {
-    "start": "node bot.js"
+    "start": "npm start"
   },
   "dependencies": {
     "mineflayer": "^4.14.0",
